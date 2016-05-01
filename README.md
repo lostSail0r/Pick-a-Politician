@@ -1,5 +1,5 @@
 # Pick-a-Politician
-Who do you side with? - A humorous look at politics 
+Who do you side with? - A humorous look at politics <br>
 http://www.cgfixit.com/help.html
 
 Description: Heavily inspired by http://isidewith.com, this purpose of this game is to allow 
