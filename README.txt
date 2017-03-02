@@ -1,6 +1,7 @@
 # Pick-a-Politician
 Who do you side with? - A humorous look at politics <br>
-http://www.cgfixit.com/help.html
+Further Documentation: 
+https://github.com/lostSail0r/CG-Fix-IT/blob/master/help.html
 
 Description: Heavily inspired by http://isidewith.com, this purpose of this game is to allow 
 the user to make certain selections based on their interests and beliefs. In the background 
