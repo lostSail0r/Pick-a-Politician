@@ -1,6 +1,6 @@
 # Pick-a-Politician
 Who do you side with? - A humorous look at politics <br>
-
+<hr>
 Description: Heavily inspired by http://isidewith.com, this purpose of this game is to allow 
 the user to make certain selections based on their interests and beliefs. In the background 
 of this GUI application, a political score will be calculated after every selection. At the end of the game,
