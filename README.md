@@ -23,3 +23,4 @@ This program will do the following:
 - If the user hits "Learn more," the webbrowser module will open the user's web browser to that respective candidates website.
 
 GAME HELP PAGE: https://cgfixit.com/help.html
+<hr>
