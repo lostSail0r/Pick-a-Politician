@@ -1,7 +1,5 @@
 # Pick-a-Politician
 Who do you side with? - A humorous look at politics <br>
-Further Documentation: 
-https://github.com/lostSail0r/CG-Fix-IT/blob/master/help.html
 
 Description: Heavily inspired by http://isidewith.com, this purpose of this game is to allow 
 the user to make certain selections based on their interests and beliefs. In the background 
@@ -23,3 +21,5 @@ This program will do the following:
 -	If the user wants to save his results and view other results, he can click that section.
 -	If the user hits spacebar, an “Easter egg” mini-game involving a comical view of Donald Trump will begin
 - If the user hits "Learn more," the webbrowser module will open the user's web browser to that respective candidates website.
+
+GAME HELP PAGE: https://cgfixit.com/help.html
