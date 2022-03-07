@@ -21,6 +21,6 @@ This program will do the following:
 -	If the user wants to save his results and view other results, he can click that section.
 -	If the user hits spacebar, an “Easter egg” mini-game involving a comical view of Donald Trump will begin
 - If the user hits "Learn more," the webbrowser module will open the user's web browser to that respective candidates website.
-
+<br>
 GAME HELP PAGE: https://cgfixit.com/help.html
 <hr>
