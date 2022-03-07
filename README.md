@@ -9,7 +9,7 @@ Hopefully some results will be surprising to some!  And just for fun – at the 
 user has two additional choices besides quitting. The first would be to enter their name and save it 
 to a file that stores all previous saved entries (that way users can see what other people have gotten). 
 The other is a funny Donald Trump-Themed mini-game.
-
+<hr>
 This program will do the following:
 -	First, display detailed instructions to the user so they know what they are supposed to do.
 -	Next, they will select whichever statements that they strongly agree with. 
