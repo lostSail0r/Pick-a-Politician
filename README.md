@@ -24,3 +24,4 @@ This program will do the following:
 <hr>
 GAME HELP PAGE: https://cgfixit.com/help.html
 <hr>
+UPDATE: Someone requested the dependency files to be posted since the versions used in this are now deprecated:<br><a href="https://cgfixit.com/pygame"><b>Here is a link</b></a> to the .zip with everything needed (Base python/pygame install, pip, and bs4 are all contained in the zip with somewhat coherent instructions ;) - I can provide extracted version too if needed just <a href="mailto:help@cgfixit.com">ping me</a>
