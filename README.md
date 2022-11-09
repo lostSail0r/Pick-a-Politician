@@ -22,9 +22,10 @@ This program will do the following:
 -	If the user hits spacebar, an “Easter egg” mini-game involving a comical view of Donald Trump will begin
 - If the user hits "Learn more," the webbrowser module will open the user's web browser to that respective candidates website.
 <hr>
-GAME HELP PAGE: https://cgfixit.com/help.html
-<hr>
 UPDATE: Someone requested the dependency files to be posted since the versions used in this are now deprecated:<br><a href="https://cgfixit.com/pygame"><b>Here is a link</b></a> to the .zip with everything needed (Base python/pygame install, pip, and bs4 are all contained in the zip with somewhat coherent instructions ;) - I can provide extracted version too if needed just <a href="mailto:help@cgfixit.com">ping me</a>
 <hr>
 YT Demo of program: https://youtu.be/YFg9_Rn0Gw0 <bR>
-Replit/Ported to Web: https://replit.com/@lostSail0r/Pick-a-Politician?v=1 <hr>
+Replit/Ported to Web: https://replit.com/@lostSail0r/Pick-a-Politician?v=1
+<hr>
+GAME HELP PAGE: https://cgfixit.com/help.html
+<hr>
